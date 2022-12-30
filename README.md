@@ -29,7 +29,6 @@ numbered section rules (H3).
 
 ## Example
 
-An example implementation of HeaderSections with the default CSS implement-
-ation can be found here:
+An example implementation of HeaderSections with the default CSS implementation can be found here:
 
 https://consolemods.org/wiki/HeaderSections
