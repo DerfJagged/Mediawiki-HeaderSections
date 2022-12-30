@@ -1,0 +1,30 @@
+{
+	"name": "HeaderSections",
+	"version": "1.0",
+	"author": "Derf Jagged",
+	"url": "//mediawiki.org/wiki/Extension:HeaderSections",
+	"description": "Adds a CSS class to all contents under a header. Indents by default.",
+	"AutoloadClasses": {
+		"HeaderSectionsHooks": "HeaderSections.hooks.php"
+	},
+	"Hooks": {
+		"BeforePageDisplay": [
+			"HeaderSectionsHooks::onBeforePageDisplay"
+		]
+	},
+	"ResourceModules": {
+		"ext.headerSections": {
+			"scripts": [
+				"ext.headersections.js"
+			],
+			"styles": [
+				"ext.headersections.css"
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "resources",
+		"removeExtPath": "HeaderSections/resources"
+	},
+	"manifest_version": 1
+}

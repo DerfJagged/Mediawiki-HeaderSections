@@ -1,0 +1,47 @@
+.mw-body-content .H1-section {
+  margin-left: 0em!important;
+}
+
+.mw-body-content ol.H1-section, .mw-body-content ul.H1-section {
+  margin-left: 1.4em!important;
+}
+
+.mw-body-content .H2-section {
+  margin-left: 1em!important;
+}
+
+.mw-body-content ol.H2-section, .mw-body-content ul.H2-section {
+  margin-left: 2.4em!important;
+}
+
+.mw-body-content .H3-section {
+  margin-left: 3em!important;
+}
+
+.mw-body-content ol.H3-section, .mw-body-content ul.H3-section {
+  margin-left: 4.4em!important;
+}
+
+.mw-body-content .H4-section {
+  margin-left: 5em!important;
+}
+
+.mw-body-content ol.H4-section, .mw-body-content ul.H4-section {
+  margin-left: 6.4em!important;
+}
+
+.mw-body-content .H5-section {
+  margin-left: 7em!important;
+}
+
+.mw-body-content ol.H5-section, .mw-body-content ul.H5-section {
+  margin-left: 8.4em!important;
+}
+
+.mw-body-content .H6-section {
+  margin-left: 9em!important;
+}
+
+.mw-body-content ol.H6-section, .mw-body-content ul.H6-section {
+  margin-left: 10.4em!important;
+}

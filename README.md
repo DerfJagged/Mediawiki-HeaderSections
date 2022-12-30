@@ -1,4 +1,4 @@
-# MediaWiki HeaderSections
+# HeaderSections
 
 A Mediawiki extension that adds a CSS class to the section of content below
 a header. This effectively allows for CSS styling to be applied to sections
