@@ -26,3 +26,10 @@ configuration is set to indent each header section by an increasing amount.
 Your CSS rules in ext.headersections.css needs to be in the proper order so
 that the higher numbered section rules (H4) take precedence over the lower-
 numbered section rules (H3).
+
+## Example
+
+An example implementation of HeaderSections with the default CSS implement-
+ation can be found here:
+
+https://consolemods.org/wiki/HeaderSections
