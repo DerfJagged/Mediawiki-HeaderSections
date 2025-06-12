@@ -1,7 +1,7 @@
 {
 	"name": "HeaderSections",
 	"version": "1.0",
-	"author": "Derf Jagged",
+	"author": "[https://consolemods.org/wiki/User:Derf Derf Jagged]",
 	"url": "//mediawiki.org/wiki/Extension:HeaderSections",
 	"description": "Adds a CSS class to all contents under a header. Indents by default.",
 	"AutoloadClasses": {
@@ -26,5 +26,6 @@
 		"localBasePath": "resources",
 		"removeExtPath": "HeaderSections/resources"
 	},
+	"license-name": "MIT",
 	"manifest_version": 1
 }
